@@ -75,11 +75,8 @@
  
 <br/>
 
-## 📊 **GitHub Stats**  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdull-07&show_icons=true&count_private=true&theme=vue&hide_border=false" height="200" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdull-07&layout=compact&langs_count=6&theme=vue&hide_border=false" height="200" alt="Top Languages" />
-</div>  
+## 📂 Featured Projects  
+🚧 **Coming Soon:** A section showcasing my best projects! Stay tuned. 
 
  
 <br/>
