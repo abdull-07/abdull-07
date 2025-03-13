@@ -76,7 +76,9 @@
 <br/>
 
 ## 📂 Featured Projects  
-🚧 **Coming Soon:** A section showcasing my best projects! Stay tuned. 
+![React](https://img.shields.io/badge/React-000?logo=react) ![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js) ![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb)  
+📌 MERN Stack Projects  
+🔗 📂 **[GitHub](https://github.com/abdull-07/mern-stack-projects)**
 
  
 <br/>
