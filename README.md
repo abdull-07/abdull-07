@@ -1,11 +1,10 @@
 # 👋 **Hey there! I'm Muhammad Abdullah**  
-### 🧑‍💻 MERN Stack Developer | React Native Learner  
+### 🧑‍💻 MERN Stack Developer | React Native Enthusiast
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="center" />
-</div>  
-
- 
+  <p><i>Building digital experiences, one line of code at a time.</i></p>
+</div>
 
 ## 🚀 **About Me**  
 - 🛠 Currently working on enhancing my MERN stack skills.
@@ -16,10 +15,13 @@
   
 - 🚀 Constantly working on real-world projects to sharpen my skills.
   
-- ⚡ Fun fact: I write more comments than actual code (sometimes).😆    
+- ⚡ Fun fact: I write more comments than actual code (sometimes).😆
 
- 
-<br/>
+## 💼 **What I'm Working On**
+- 🔨 Developing a full-stack e-commerce platform
+- 📚 Creating technical content and tutorials
+- 🤝 Contributing to open-source projects
+- 📱 Building cross-platform mobile applications
 
 ## 📬 **Connect with Me**  
 <div align="left">
@@ -83,11 +85,15 @@
  
 <br/>
 
+## 📊 **This Week's Coding Stats**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🎯 **Current Goals**  
-- 🚀 Build a production-ready **MERN stack** project.  
-- 📱 Master **React Native** to develop cross-platform mobile apps.  
-- 💡 Explore **Nest.js** for scalable backend development.  
-- 📖 Read about **software architecture & design patterns**.  
+- 🚀 Launch a **SaaS product** using the MERN stack
+- 📱 Publish a **React Native app** to both App Store and Play Store
+- 🌐 Master **Next.js** and **TypeScript**
+- 📖 Contribute more to **open-source** projects
 
  
 <br/>
@@ -109,4 +115,4 @@
  
 <br/>
 
-### 🚀 **Thanks for visiting!** Keep coding and stay awesome! 😎🔥  
+### 🚀 **Thanks for visiting!** Keep coding and stay awesome! 😎🔥
