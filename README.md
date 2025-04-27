@@ -3,7 +3,7 @@
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="center" />
-  <p><i>Building digital experiences, one line of code at a time.</i></p>
+<!--   <p><i>Building digital experiences, one line of code at a time.</i></p> -->
 </div>
 
 ## 🚀 **About Me**  
