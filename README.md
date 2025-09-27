@@ -1,118 +1,178 @@
-# 👋 **Hey there! I'm Muhammad Abdullah**  
-<!-- ### 🧑‍💻 MERN Stack Developer | React Native Enthusiast -->
-
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="center" />
-  <p><i>Building digital experiences, one line of code at a time.</i></p>
+  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  
+  # 👋 Hey there! I'm Muhammad Abdullah
+  ### 🧑‍💻 MERN Stack Developer | React Native Enthusiast | Full-Stack Engineer
+  
+  <p><i>✨ Building digital experiences, one line of code at a time ✨</i></p>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=MERN+Stack;Always+Learning+New+Things)](https://git.io/typing-svg)
 </div>
 
-## 🚀 **About Me**  
-- 🛠 Currently working on enhancing my MERN stack skills.
-    
-- 📱 Learning React Native to create mobile apps.
-  
-- 💡 I enjoy discussing clean code, best practices, and optimizing APIs.
-  
-- 🚀 Constantly working on real-world projects to sharpen my skills.
-  
-- ⚡ Fun fact: I write more comments than actual code (sometimes).😆
+## 🚀 About Me
 
-## 💼 **What I'm Working On**
-- 🔨 Developing a full-stack e-commerce platform
-- 📚 Creating technical content and tutorials
-- 🤝 Contributing to open-source projects
-- 📱 Building cross-platform mobile applications
+```javascript
+const abdullah = {
+    location: "Pakistan 🇵🇰",
+    currentFocus: "Full-Stack Development",
+    technologies: ["React", "Node.js", "MongoDB", "Express"],
+    currentlyLearning: [ "Next.js", "TypeScript"],
+    askMeAbout: ["Web Development", "API Design", "Clean Code"],
+    funFact: "I write more comments than actual code 😆"
+};
+```
 
-## 📬 **Connect with Me**  
-<div align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" height="40" alt="Facebook" style="margin: 10px;"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="50" height="40" alt="Outlook" style="margin: 10px;"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="Instagram" style="margin: 10px;"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="LinkedIn" style="margin: 10px;"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="50" height="40" alt="Linktree" style="margin: 10px;"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50" height="40" alt="YouTube" style="margin: 10px;"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="50" height="40" alt="CodePen" style="margin: 10px;"/></a>
+🔭 **Currently working on:** Enhancing my MERN stack skills and building real-world applications  
+🌱 **Learning:** React Native for cross-platform mobile development  
+💬 **Ask me about:** Clean code practices, API optimization, and full-stack architecture  
+⚡ **Fun fact:** I believe good code tells a story - and I love writing those stories!
+
+## 💼 What I'm Working On
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔨 Current Projects
+- **E-commerce Platform** - Full-stack MERN application
+- **Mobile App** - React Native cross-platform solution
+- **API Gateway** - Microservices architecture
+- **Tech Blog** - Sharing knowledge and tutorials
+
+</td>
+<td width="50%">
+
+### 🎯 Learning Path
+- **TypeScript** - Type-safe JavaScript development
+- **Nest.js** – A progressive Node.js framework for building scalable and maintainable backend applications.
+- **Next.js** - Server-side rendering & static generation
+- **DevOps** - Docker, CI/CD, Cloud deployment
+
+</td>
+</tr>
+</table>
+
+## 📬 Let's Connect!
+
+<div align="center">
+  
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) -->
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdull-07)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muhammad_abdullah_1220)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:personal.muhammadabdullah@gmail.com)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)-->
+
 </div>  
 
  
 <br/>
 
-## 💻 **Tech Stack**  
+## 💻 Tech Stack & Skills
 
-### 🖥️ **Frontend Development**  
 <div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" alt="React" style="margin: 20px;"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" alt="Bootstrap" style="margin: 20px;"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" alt="CSS3" style="margin: 20px;"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" alt="HTML5" style="margin: 20px;"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" alt="JavaScript" style="margin: 20px;"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" alt="Tailwind CSS" style="margin: 20px;"/>
-</div>  
 
- 
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🖧 **Backend Development**  
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" alt="JavaScript" style="margin: 20px;"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50" alt="MongoDB" style="margin: 20px;"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" alt="Node.js" style="margin: 20px;"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="50" alt="Express.js" style="margin: 20px;"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" alt="Git" style="margin: 20px;"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="50" alt="Redux" style="margin: 20px;"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="50" alt="Bash" style="margin: 20px;"/>
-</div>  
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
- 
+### Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🔧 **Other Tools & Technologies**  
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" alt="Git" style="margin: 20px;"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" alt="MySQL" style="margin: 20px;"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" height="50" alt="Illustrator" style="margin: 20px;"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" height="50" alt="Photoshop" style="margin: 20px;"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" height="50" alt="WooCommerce" style="margin: 20px;"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" height="50" alt="WordPress" style="margin: 20px;"/>
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
 </div>  
 
  
 <br/>
 
-## 📂 Featured Projects  
-![React](https://img.shields.io/badge/React-000?logo=react) ![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js) ![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb)  
-📌 MERN Stack Projects  
-🔗 📂 **[GitHub](https://github.com/abdull-07/mern-stack-projects)**
+## 📂 Featured Projects
+
+<div align="center">
+
+### 🌟 MERN Stack Projects Collection
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/abdull-07/mern-stack-projects)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
+
+*A comprehensive collection of full-stack applications showcasing modern web development practices*
+
+</div>
 
  
 <br/>
 
-## 📊 **This Week's Coding Stats**
+## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
+```text
+JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░░░░░   50.2%
+React        8 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   33.1%
+CSS          2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.0%
+HTML         1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░    6.0%
+```
 <!--END_SECTION:waka-->
 
-## 🎯 **Current Goals**  
-- 🚀 Launch a **SaaS product** using the MERN stack
-- 📱 Publish a **React Native app** to both App Store and Play Store
-- 🌐 Master **Next.js** and **TypeScript**
-- 📖 Contribute more to **open-source** projects
+<!-- ## 🎯 2025 Goals & Roadmap
+
+<div align="center">
+
+| 🚀 **Product Goals** | 📱 **Technical Goals** | 🌱 **Learning Goals** |
+|:---:|:---:|:---:|
+| Launch SaaS Platform | Master React Native | Advanced TypeScript |
+| E-commerce MVP | Publish Mobile App | Next.js & SSR |
+| API Monetization | Cloud Architecture | DevOps & CI/CD |
+| Open Source Contrib | Performance Optimization | System Design |
+
+</div> -->
 
  
 <br/>
 
-## 🔥 My GitHub Stats  
+## 📈 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdull-07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdull-07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="150" alt="languages graph" />
+  [<img src="https://github-readme-stats.vercel.app/api?username=abdull-07&show_icons=true&theme=radical" height="165" alt="GitHub Stats" />]
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdull-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 </div>
 
-
-<br/>
-
-## 🎉 **Profile Visitors**  
 <div align="center">
-  <img src="https://profile-counter.glitch.me/abdull-07/count.svg?" />
-</div>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdull-07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
- 
-<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdull-07&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
 
-### 🚀 **Thanks for visiting!** Keep coding and stay awesome! 😎🔥
+---
+
+<div align="center">
+  
+### 🎉 Thanks for visiting my profile! 
+  
+![Profile Views](https://komarev.com/ghpvc/?username=abdull-07&color=blueviolet&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/abdull-07?style=flat-square&color=blue)](https://github.com/abdull-07)
+
+<!-- **💫 "Code is like humor. When you have to explain it, it's bad." - Cory House** -->
+<!-- **💫 "First, solve the problem. Then, write the code." - John Johnson** -->
+<!-- **💫 "Code never lies, comments sometimes do." - Ron Jeffries** -->
+**💫 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler**
+
+*Keep coding and stay awesome!* 🚀✨
+
+</div>
