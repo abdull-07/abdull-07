@@ -29,7 +29,7 @@ const abdullah = {
 
 ## 💼 What I'm Working On
 
-<table>
+<table border="none">
 <tr>
 <!-- <td width="50%">
 
