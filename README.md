@@ -30,7 +30,7 @@ const abdullah = {
 ## 💼 What I'm Working On
 
 <table border="none">
-<tr>
+<tr border="none">
 <!-- <td width="50%">
 
 ### 🔨 Current Projects
@@ -40,7 +40,7 @@ const abdullah = {
 - **Tech Blog** - Sharing knowledge and tutorials
 
 </td> -->
-<td width="50%">
+<td width="50%" border="none">
 
 ### 🎯 Learning Path
 - **TypeScript** - Type-safe JavaScript development
