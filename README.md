@@ -31,7 +31,7 @@ const abdullah = {
 
 <table border="none">
 <tr border="none">
-<td width="50%" border="none">
+<!-- <td width="50%" border="none">
 
 ### 🔨 Current Projects
 - **E-commerce Platform** - Full-stack MERN application
@@ -39,7 +39,7 @@ const abdullah = {
 - **API Gateway** - Microservices architecture
 - **Tech Blog** - Sharing knowledge and tutorials
 
-</td>
+</td> -->
 
 <td width="50%" border="none">
 
@@ -121,13 +121,7 @@ const abdullah = {
 
 ## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░░░░░   50.2%
-React        8 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   33.1%
-CSS          2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.0%
-HTML         1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░    6.0%
-```
-<!--END_SECTION:waka-->
+<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@abd07&layout=compact&theme=radical) -->
 
 <!-- ## 🎯 2025 Goals & Roadmap
 
@@ -159,7 +153,6 @@ HTML         1 hr 30 mins    █░░░░░░░░░░░░░░░░
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdull-07&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
-
 ---
 
 <div align="center">
