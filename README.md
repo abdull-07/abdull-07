@@ -31,7 +31,7 @@ const abdullah = {
 
 <table>
 <tr>
-<td width="50%">
+<!-- <td width="50%">
 
 ### 🔨 Current Projects
 - **E-commerce Platform** - Full-stack MERN application
@@ -39,7 +39,7 @@ const abdullah = {
 - **API Gateway** - Microservices architecture
 - **Tech Blog** - Sharing knowledge and tutorials
 
-</td>
+</td> -->
 <td width="50%">
 
 ### 🎯 Learning Path
@@ -147,7 +147,7 @@ HTML         1 hr 30 mins    █░░░░░░░░░░░░░░░░
 ## 📈 GitHub Analytics
 
 <div align="center">
-  [<img src="https://github-readme-stats.vercel.app/api?username=abdull-07&show_icons=true&theme=radical" height="165" alt="GitHub Stats" />]
+<img src="https://github-readme-stats.vercel.app/api?username=abdull-07&show_icons=true&theme=radical" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdull-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 </div>
 
