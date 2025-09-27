@@ -31,7 +31,7 @@ const abdullah = {
 
 <table border="none">
 <tr border="none">
-<!-- <td width="50%">
+<td width="50%" border="none">
 
 ### 🔨 Current Projects
 - **E-commerce Platform** - Full-stack MERN application
@@ -39,7 +39,8 @@ const abdullah = {
 - **API Gateway** - Microservices architecture
 - **Tech Blog** - Sharing knowledge and tutorials
 
-</td> -->
+</td>
+
 <td width="50%" border="none">
 
 ### 🎯 Learning Path
