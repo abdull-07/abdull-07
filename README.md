@@ -119,9 +119,7 @@ const abdullah = {
  
 <br/>
 
-## 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@abd07&layout=compact&theme=radical) -->
+
 
 <!-- ## 🎯 2025 Goals & Roadmap
 
