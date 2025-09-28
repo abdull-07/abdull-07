@@ -2,7 +2,8 @@
   <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
   
   # 👋 Hey there! I'm Muhammad Abdullah
-  ### 🧑‍💻 MERN Stack Developer | React Native Enthusiast | Full-Stack Engineer
+  ### 🧑‍💻 MERN Stack Developer 
+<!--  | React Native Enthusiast | Full-Stack Engineer -->
   
   <p><i>✨ Building digital experiences, one line of code at a time ✨</i></p>
   
