@@ -5,7 +5,7 @@
   ### 🧑‍💻 MERN Stack Developer 
 <!--  | React Native Enthusiast | Full-Stack Engineer -->
   
-  <p><i>✨ Building digital experiences, one line of code at a time ✨</i></p>
+  <p><i>✨ Code. Create. Connect ✨</i></p>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=MERN+Stack;Always+Learning+New+Things)](https://git.io/typing-svg)
 </div>
