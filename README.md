@@ -16,8 +16,8 @@
 const abdullah = {
     location: "Pakistan 🇵🇰",
     currentFocus: "Full-Stack Development",
-    technologies: ["React", "Node.js", "MongoDB", "Express"],
-    currentlyLearning: [ "Next.js", "TypeScript"],
+    technologies: ["React", "Node.js", "MongoDB", "Express", "NextJs"],
+    currentlyLearning: [ "Next.js", "TypeScript", "React Native"],
     askMeAbout: ["Web Development", "API Design", "Clean Code"],
     funFact: "I write more comments than actual code 😆"
 };
